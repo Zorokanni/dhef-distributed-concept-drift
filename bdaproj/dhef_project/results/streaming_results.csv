@@ -1,0 +1,2 @@
+batch_id,timestamp,records_in_batch,total_records,global_drift,throughput_rps,avg_imbalance_ratio,p0_minority,p0_drift_count,p0_imbalance,p1_minority,p1_drift_count,p1_imbalance,p2_minority,p2_drift_count,p2_imbalance,p3_minority,p3_drift_count,p3_imbalance
+1,2026-03-06T03:02:42.959498,303314,303314,1,7241.38,0.0,0,840,0.0,0,704,0.0,0,717,0.0,0,765,0.0
